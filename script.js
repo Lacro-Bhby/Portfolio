@@ -1,1 +1,1 @@
-
+document.getElementById("contactForm").addEventListener(...)
